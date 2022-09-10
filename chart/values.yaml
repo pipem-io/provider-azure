@@ -1,0 +1,6 @@
+image: docker.pipem.io/provider-azure
+version: VERSION
+
+replicas: 1
+
+provider: azure
